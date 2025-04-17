@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="header">
+    <text class="title">幸运抽签</text>
+  </view>
+  <image src="/images/shake.png" class="shake-icon" />
+  <text class="tip">摇一摇 抽个好运签</text>
+</view>

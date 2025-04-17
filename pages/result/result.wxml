@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="header">
+    <text class="title">幸运抽签</text>
+  </view>
+  <view class="card-container">
+    <image src="/images/cards/{{cardName}}.jpg" class="card-image" mode="aspectFit"></image>
+  </view>
+  <button bindtap="backToHome" class="retry-btn">再来一次</button>
+</view>

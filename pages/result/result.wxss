@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.header {
+  width: 100%;
+  height: 100rpx;
+  background-color: #d81e06;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 40rpx;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+}
+
+.card-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-image {
+  width: 460rpx;
+  height: 700rpx;
+  border: 6rpx solid #d81e06;
+}
+
+.retry-btn {
+  margin-top: 60rpx;
+  width: 460rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  color: #ffffff;
+  background-color: #d81e06;
+  border-radius: 0;
+  font-size: 32rpx;
+}

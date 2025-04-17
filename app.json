@@ -1,0 +1,13 @@
+{
+    "pages": [
+      "pages/index/index",
+      "pages/result/result"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#C40816",
+      "navigationBarTitleText": "幸运抽签",
+      "navigationBarTextStyle": "white"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+  }

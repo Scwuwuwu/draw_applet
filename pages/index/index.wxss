@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.header {
+  width: 100%;
+  height: 100rpx;
+  background-color: #d81e06;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 80rpx;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+}
+
+.shake-icon {
+  width: 240rpx;
+  height: 240rpx;
+  margin-top: 100rpx;
+}
+
+.tip {
+  margin-top: 60rpx;
+  color: #d81e06;
+  font-size: 40rpx;
+  font-weight: bold;
+}
